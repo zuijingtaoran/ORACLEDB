@@ -1,0 +1,13 @@
+{
+  "name": "1122",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "*",
+    "express": "3.2.6",
+    "oracledb": "^1.13.1"
+  }
+}
